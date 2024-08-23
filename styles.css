@@ -1,0 +1,18 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+header {
+    background-image: url('https://via.placeholder.com/1920x600');
+    background-size: cover;
+    color: #fff;
+}
+
+.card-img-top {
+    height: 200px;
+    object-fit: cover;
+}
+
+footer {
+    background-color: #343a40;
+}
